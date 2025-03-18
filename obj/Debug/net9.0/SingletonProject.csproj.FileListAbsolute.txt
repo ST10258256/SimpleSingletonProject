@@ -1,0 +1,14 @@
+C:\Users\luke jordan\Documents\Varsity College\2025\PROG7311\SingletonProject\SingletonProject\bin\Debug\net9.0\SingletonProject.exe
+C:\Users\luke jordan\Documents\Varsity College\2025\PROG7311\SingletonProject\SingletonProject\bin\Debug\net9.0\SingletonProject.deps.json
+C:\Users\luke jordan\Documents\Varsity College\2025\PROG7311\SingletonProject\SingletonProject\bin\Debug\net9.0\SingletonProject.runtimeconfig.json
+C:\Users\luke jordan\Documents\Varsity College\2025\PROG7311\SingletonProject\SingletonProject\bin\Debug\net9.0\SingletonProject.dll
+C:\Users\luke jordan\Documents\Varsity College\2025\PROG7311\SingletonProject\SingletonProject\bin\Debug\net9.0\SingletonProject.pdb
+C:\Users\luke jordan\Documents\Varsity College\2025\PROG7311\SingletonProject\SingletonProject\obj\Debug\net9.0\SingletonProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luke jordan\Documents\Varsity College\2025\PROG7311\SingletonProject\SingletonProject\obj\Debug\net9.0\SingletonProject.AssemblyInfoInputs.cache
+C:\Users\luke jordan\Documents\Varsity College\2025\PROG7311\SingletonProject\SingletonProject\obj\Debug\net9.0\SingletonProject.AssemblyInfo.cs
+C:\Users\luke jordan\Documents\Varsity College\2025\PROG7311\SingletonProject\SingletonProject\obj\Debug\net9.0\SingletonProject.csproj.CoreCompileInputs.cache
+C:\Users\luke jordan\Documents\Varsity College\2025\PROG7311\SingletonProject\SingletonProject\obj\Debug\net9.0\SingletonProject.dll
+C:\Users\luke jordan\Documents\Varsity College\2025\PROG7311\SingletonProject\SingletonProject\obj\Debug\net9.0\refint\SingletonProject.dll
+C:\Users\luke jordan\Documents\Varsity College\2025\PROG7311\SingletonProject\SingletonProject\obj\Debug\net9.0\SingletonProject.pdb
+C:\Users\luke jordan\Documents\Varsity College\2025\PROG7311\SingletonProject\SingletonProject\obj\Debug\net9.0\SingletonProject.genruntimeconfig.cache
+C:\Users\luke jordan\Documents\Varsity College\2025\PROG7311\SingletonProject\SingletonProject\obj\Debug\net9.0\ref\SingletonProject.dll
